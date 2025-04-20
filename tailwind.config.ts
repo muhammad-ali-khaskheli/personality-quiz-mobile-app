@@ -61,8 +61,17 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
-			},
+				},
+                // Personality quiz colors
+                quiz: {
+                    openness: '#9b87f5', 
+                    conscientiousness: '#0EA5E9',
+                    extraversion: '#F97316',
+                    agreeableness: '#8B5CF6',
+                    neuroticism: '#D946EF',
+                    bg: '#F1F0FB',
+                    card: '#FFFFFF',
+                },
 			borderRadius: {
 				lg: 'var(--radius)',
 				md: 'calc(var(--radius) - 2px)',
