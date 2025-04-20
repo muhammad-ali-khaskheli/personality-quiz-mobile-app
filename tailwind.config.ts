@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -71,7 +72,8 @@ export default {
                     neuroticism: '#D946EF',
                     bg: '#F1F0FB',
                     card: '#FFFFFF',
-                },
+                }
+			},
 			borderRadius: {
 				lg: 'var(--radius)',
 				md: 'calc(var(--radius) - 2px)',
