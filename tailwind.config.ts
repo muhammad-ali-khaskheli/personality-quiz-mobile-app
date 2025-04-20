@@ -63,7 +63,6 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-                // Personality quiz colors
                 quiz: {
                     openness: '#9b87f5', 
                     conscientiousness: '#0EA5E9',
