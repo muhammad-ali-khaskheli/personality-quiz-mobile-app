@@ -1,0 +1,9 @@
+
+{
+  "appId": "app.lovable.2aef3696e36049abbcf80dfa4c1a1d82",
+  "appName": "Personality Quiz",
+  "server": {
+    "url": "https://2aef3696-e360-49ab-bcf8-0dfa4c1a1d82.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  }
+}
